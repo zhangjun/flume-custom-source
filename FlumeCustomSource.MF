@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.weibo.search.flume.sink.MCQ.MCQSink
+Class-Path: ../lib/flume-ng-core-1.6.0.jar ../lib/flume-ng-sdk-1.6.0.jar ../lib/flume-ng-configuration-1.6.0.jar ../lib/slf4j-api-1.6.1.jar ../lib/apache-log4j-extras-1.1.jar ../lib/guava-11.0.2.jar ../lib/mina-core-2.0.4.jar ../lib/netty-3.5.12.Final.jar
+
